@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.137" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-04-23T05:57:34" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="getPosts" timestamp="2026-04-23T05:57:34" tests="1" file="/home/kirapash-joel/lab-await/test/test.js" time="0.135" failures="0">
+    <testcase name="getPosts should return an array of posts" time="0.133" classname="should return an array of posts">
+    </testcase>
+  </testsuite>
+</testsuites>

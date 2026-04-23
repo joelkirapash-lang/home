@@ -1,0 +1,24 @@
+{
+  "name": "lab-await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"test/**/*.js\" --timeout 5000 --reporter mocha-junit-reporter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelkirapash-lang/home.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelkirapash-lang/home/issues"
+  },
+  "homepage": "https://github.com/joelkirapash-lang/home#readme",
+  "devDependencies": {
+    "mocha": "^11.7.5",
+    "mocha-junit-reporter": "^2.2.1"
+  }
+}
